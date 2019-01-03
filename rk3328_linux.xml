@@ -24,7 +24,6 @@
   <project path="app/music" name="music" revision="master"/>
   <project path="app/QLauncher" name="QLauncher" revision="master"/>
   <project path="app/settings" name="settings" revision="master"/>
-  <project path="app/video" name="video" revision="master"/>
   <project path="external/xserver" name="xserver" revision="rockchip-1.18"/>
   <project path="external/linux-adb" name="linux-adb" revision="master"/>
   <project path="external/libmali" name="libmali" revision="29mirror"/>
